@@ -16,7 +16,7 @@ public class Principal {
 		
 		String usuario = "cleanGuy";
 		String bbdd = "prueba";
-		String password = "P@ssw0rd";
+		String password = "P@ssw0rd"; 
 		
 
 		c = new ConectorSQLBean("localhost", "3306", bbdd, usuario, password);
